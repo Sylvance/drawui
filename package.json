@@ -1,0 +1,23 @@
+{
+  "name": "drawui",
+  "version": "1.0.0",
+  "description": "Draw your user interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvance/drawui.git"
+  },
+  "keywords": [
+    "ui",
+    "drawable"
+  ],
+  "author": "Sylvance Kerandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sylvance/drawui/issues"
+  },
+  "homepage": "https://github.com/Sylvance/drawui#readme"
+}
